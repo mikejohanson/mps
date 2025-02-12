@@ -1,3 +1,35 @@
+## [2.13.22](https://github.com/open-amt-cloud-toolkit/mps/compare/v2.13.21...v2.13.22) (2025-02-07)
+
+
+### Bug Fixes
+
+* **api:** add kvmAvailable to get AMT features ([#1803](https://github.com/open-amt-cloud-toolkit/mps/issues/1803)) ([c6596cc](https://github.com/open-amt-cloud-toolkit/mps/commit/c6596ccfbdc213ad6467e1ae41063f418a6bd0ac))
+
+## [2.13.21](https://github.com/open-amt-cloud-toolkit/mps/compare/v2.13.20...v2.13.21) (2024-11-14)
+
+
+### Bug Fixes
+
+* browser data when cira channel is closed ([#1707](https://github.com/open-amt-cloud-toolkit/mps/issues/1707)) ([c72949a](https://github.com/open-amt-cloud-toolkit/mps/commit/c72949a228a8f6954c19219bb1ebda0f993a7b51))
+
+## [2.13.20](https://github.com/open-amt-cloud-toolkit/mps/compare/v2.13.19...v2.13.20) (2024-11-13)
+
+## [2.13.19](https://github.com/open-amt-cloud-toolkit/mps/compare/v2.13.18...v2.13.19) (2024-11-08)
+
+## [2.13.18](https://github.com/open-amt-cloud-toolkit/mps/compare/v2.13.17...v2.13.18) (2024-10-08)
+
+
+### Bug Fixes
+
+* **api:** get alarm occurrence ([#1656](https://github.com/open-amt-cloud-toolkit/mps/issues/1656)) ([27d2064](https://github.com/open-amt-cloud-toolkit/mps/commit/27d20644ebc427a6ce3ea1e437bbeb27f579bb59))
+
+## [2.13.17](https://github.com/open-amt-cloud-toolkit/mps/compare/v2.13.16...v2.13.17) (2024-09-10)
+
+
+### Bug Fixes
+
+* Override OpenSSL security level to allow TLSv1 connections ([a5f6b06](https://github.com/open-amt-cloud-toolkit/mps/commit/a5f6b0672062d9ce039d9a8a2d7892cb61e664c5))
+
 ## [2.13.16](https://github.com/open-amt-cloud-toolkit/mps/compare/v2.13.15...v2.13.16) (2024-08-12)
 
 ## [2.13.15](https://github.com/open-amt-cloud-toolkit/mps/compare/v2.13.14...v2.13.15) (2024-07-15)
